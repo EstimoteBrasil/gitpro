@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="lll" />
+    <string name="desc">Image</string>
+    <string name="linktosite">
+        <a href="http://bit.ly/2QeLceQ">Click Aqui</a>
+    </string>
+</resources>
